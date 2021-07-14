@@ -1,0 +1,209 @@
+
+.home-base{
+  /* background-color: rgb(251, 251, 251); */
+  background-color: rgb(3, 1, 0);
+  text-align: center;
+  /* height: 1000px; */
+  color: red;
+  padding-bottom: 100px;
+}
+
+.home-base1{
+  /* background-color: rgb(251, 251, 251); */
+  background-color: rgb(3, 1, 0);
+  text-align: center;
+  /* height: 1000px; */
+  color: red;
+}
+
+.links{
+  padding: 20px;
+}
+
+.buttonSelection {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-weight: bold;
+  font-size: 15px;
+  background-color: #cc0000ea;
+  color: white;
+}
+.buttonSelection:hover {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-weight: bold;
+  font-size: 15px;
+  background-color: white;
+  color: #cc0000ea;
+  border: 1px solid #cc0000ea;
+}
+
+.buttonSelection:focus {
+  box-shadow: none;
+}
+
+.searchBox {
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.searchBox input {
+  height: 40px;
+  width: 20%;
+  min-width: 300px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 2px solid red;
+  border-radius: 5px;
+  color: black;
+  font-size: larger;
+  font-weight: bolder;
+}
+
+.searchBox input:focus-within {
+  outline: none !important;
+  border: 2px solid #666;
+}
+
+
+
+.card-images {
+  width: 40%;
+  margin: 20px;
+  height: 30%;
+}
+
+
+
+.footer {
+  background-color: rgb(3, 1, 0);
+  padding-top: 50px;
+  height: 100%;
+  font-size: 1em;
+  padding: 0.5em;
+  justify-content: center;
+  display: block;
+  align-content: center;
+  text-align: center;
+  color: red;  
+  position:absolute;
+  height: 600px;
+  width: 100%;
+}
+
+.name{
+  margin-top: 30px;
+  font-size: larger;
+  font-weight: 700;
+  font-family:fantasy;
+}
+
+.heartIcon{
+  margin-right: 10px;
+}
+
+.socialIcons {
+  padding: 1em;
+  /* color: red; */
+  font-size: 1.85em;
+}
+
+
+.grid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.flip-card {
+  justify-content: flex-start;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 350px;
+  height: 400px;
+  font-size: 16px;
+  align-items: center;
+  margin: 10px;
+  text-align: start;
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 1s;
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  
+  border-radius: 10px;
+  border-style: solid;
+  border-color:red;
+  
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+
+.flipped-button{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-weight: bold;
+  font-size: 15px;
+  width: 50%;
+  height: 50px;
+  margin-top: 50%;
+  background-color: #cc0000ea;
+  color: white;
+}
+
+
+.flipped-button:hover {
+  background-color: white;
+  color: red;
+}
+
+.description{
+  padding: 30px;
+}
+
+.flip-card-back {
+  /* background-color:white; */
+  /* background: #efe7dd url("https://cloud.githubusercontent.com/assets/398893/15136779/4e765036-1639-11e6-9201-67e728e86f39.jpg") repeat; */
+  background: #efe7dd url("https://wallpapercave.com/wp/wp7130410.jpg") repeat;
+  
+  transform: rotateY(180deg);
+  justify-content: center;
+  display: flex;
+  
+}
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.flip-card-front {
+  /* background-color: white; */
+  /* color: black; */
+  background: #efe7dd url("https://wallpapercave.com/wp/wp7130410.jpg") repeat;
+  color: white;
+}

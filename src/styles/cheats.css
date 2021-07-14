@@ -1,0 +1,194 @@
+
+.home-base{
+    /* background-color: rgb(251, 251, 251); */
+    background-color: rgb(3, 1, 0);
+    /* background: #efe7dd url("https://wallpapercave.com/wp/wp7130410.jpg") repeat; */
+    text-align: center;
+    /* height: 1000px; */
+    color: red;
+    padding-bottom: 100px;
+  }
+
+  .bold{
+      font-weight: bolder;
+  }
+
+  .copy-head{
+    min-width:100px; 
+    width:10%;
+  }
+
+  .grid1 {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-left: 350px;
+    padding-right: 350px;
+  }
+
+  .grid2 {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-left: 350px;
+    padding-right: 350px;
+    padding-top: 20px;
+    
+  }
+
+
+  
+
+  .grid1-elem:hover{
+    color: black;
+    background: none;
+    background-color: red;
+  }
+
+
+
+  .searchBox {
+    margin-bottom: 20px;
+    margin-top: 10px;
+  }
+  
+  .searchBox input {
+    height: 40px;
+    width: 20%;
+    min-width: 300px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px solid red;
+    border-radius: 5px;
+    color: black;
+    font-size: larger;
+    font-weight: bolder;
+  }
+  
+  .searchBox input:focus-within {
+    outline: none !important;
+    border: 2px solid #666;
+  }
+
+  .grid1 .grid1-elem {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 16px;
+    text-align: start;
+    line-height: 20px;
+    border: 1px solid red;
+    padding: 5px 5px 5px 10px;
+    padding: 15px;
+    font-family: "Raleway", sans-serif;
+    margin: 2px;
+    /* background-color: white; */
+    
+    color: red;
+    /* background-color: white; */
+    background: #efe7dd url("https://wallpapercave.com/wp/wp7130410.jpg") repeat;
+    /* background: #efe7dd url("https://cloud.githubusercontent.com/assets/398893/15136779/4e765036-1639-11e6-9201-67e728e86f39.jpg") repeat; */
+    border-radius: 5px;
+  }
+
+
+  .grid2 .grid2-elem {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 16px;
+    text-align: start;
+    line-height: 20px;
+    border: 1px solid gold;
+    border-radius: 5px;
+    padding: 5px 5px 5px 10px;
+    margin: 2px;
+    font-family: "Raleway", sans-serif;
+    padding: 15px;
+    background: #efe7dd url("https://wallpapercave.com/wp/wp7130410.jpg") repeat;
+    /* background: #efe7dd url("https://cloud.githubusercontent.com/assets/398893/15136779/4e765036-1639-11e6-9201-67e728e86f39.jpg") repeat; */
+  }
+
+  .left {
+    width: 30%;
+    font-weight: 900;
+    color: #c11000;
+    color: gold;
+  }
+  
+
+    
+  .right {
+    width: 60%;
+    /* color: black; */
+    color: red;
+    font-weight: bolder;
+  }
+
+
+
+  /* .grid2-elem:hover{
+    color: red;
+    background-color: red;
+    background: none;
+  } */
+
+
+
+  .copy {
+    display: flex;
+    min-width: 100px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 26px;
+    font-weight: bolder;
+    /* color: red; */
+    background: none;
+  }
+
+
+
+  .copy:hover{
+    background: none;
+    color: black;
+    /* background-color: red; */
+    transform: scale(1.1, 1.1);
+  }
+
+  
+  
+
+  
+
+  .cheats-heading {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: "Raleway", sans-serif;
+    font-size: 24px;
+    font-weight: bolder;
+    line-height: 24px;
+    color:red;
+    padding-top: 0%;
+    margin-top: 0%;
+    background-color: rgb(3, 1, 0);
+  }
+  
+
+
+  .cheatNotFound{
+    font-weight: bolder;
+    font-size: x-large;
+    font-family: fantasy;
+    padding-top: 100px; 
+  }

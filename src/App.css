@@ -1,0 +1,19 @@
+
+
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  /* min-height: 10vh; */
+  background-color: rgb(5, 28, 36);
+  /* background-color: rgb(222, 229, 231); */
+  color: white;
+}
+
+.nav-links{
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
