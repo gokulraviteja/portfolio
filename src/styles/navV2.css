@@ -26,11 +26,11 @@ nav{
   }
 
   .nav-name{
+    /* font-size: xx-large; */
     font-size: xx-large;
     font-weight: 700;
-    font-size: 4vh;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-family: fantasy;
+    /* font-size: 4vh; */
+    font-family: fantasy ,'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding-top: 3vh;
 
   }
