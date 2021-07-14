@@ -32,7 +32,7 @@ function PortFolioBody() {
                         </p>           
 
                         {/* <p class="about-body"> 🔁 Code / Eat / Game / Repeat / (Hopefully Travel) </p>                         */}
-                        <p class="about-body"> 👨‍💻  - 🍲 - 🎮 - 🔁  (Hopefully Travel) </p>                        
+                        <p class="about-body"> Routine : 👨‍💻  - 🍲 - 🎮 - 💤 - 🔁  (Hopefully Travel) </p>                        
 
                         
 
@@ -41,11 +41,11 @@ function PortFolioBody() {
                         </p>      
 
                         <p class="about-body">
-                            🌱 Obsessed with Maps🗺️ and Csgo <a href="https://emoji.gg/emoji/9233_CSGO_SN"><img src="https://emoji.gg/assets/emoji/9233_CSGO_SN.png" width="25px" height="25px" alt="CSGO_SN" /></a>
+                            🌱 Obsessed with Maps🗺️ and Counter Strike <a href="https://emoji.gg/emoji/9233_CSGO_SN"><img src="https://emoji.gg/assets/emoji/9233_CSGO_SN.png" width="25px" height="25px" alt="CSGO_SN" /></a>
                         </p>           
 
                         <p class="about-body">
-                            🤔 Make Sure to Check out <a href="/interests">this </a> .
+                            🤔 Make Sure to Check <a href="/interests">this out</a> .
                         </p>           
 
                         
