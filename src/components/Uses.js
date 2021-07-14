@@ -50,7 +50,7 @@ function Uses() {
                             </a>
 
                             <a href='#hardware' className="links">
-                                #OtherTools
+                                #Others
                             </a>
 
                             {/* <a href='#editors' className="links">
