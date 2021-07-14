@@ -32,12 +32,12 @@ function PortFolioBody() {
                         </p>           
 
                         {/* <p class="about-body"> 🔁 Code / Eat / Game / Repeat / (Hopefully Travel) </p>                         */}
-                        <p class="about-body"> Routine : 👨‍💻  - 🍲 - 🎮 - 💤 - 🔁  (Hopefully Travel) </p>                        
+                        <p class="about-body"> Routine : 👨‍💻  - 🍔 - 🎮 - 💤 - 🔁  (Hopefully Travel) </p>                        
 
                         
 
                         <p class="about-body">
-                            ⚡ Fun fact : Night🦉 - I like to build things overnight 🤓
+                            ⚡ Funfact: Night🦉  I like to build things overnight 🤓
                         </p>      
 
                         <p class="about-body">
@@ -45,7 +45,7 @@ function PortFolioBody() {
                         </p>           
 
                         <p class="about-body">
-                            🤔 Make Sure to Check <a href="/interests">this out</a> .
+                            🤔 Make sure to check <a href="/interests">this</a> out
                         </p>           
 
                         

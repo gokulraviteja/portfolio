@@ -58,7 +58,7 @@ function Uses() {
 
 
                 <div className="uses-body" id="editors">
-                    <h3 className="uses-headings"> Editors (Depends on mood and language) </h3>                
+                    <h3 className="uses-headings"> Editors (Depends on the mood and language) </h3>                
                     <p class="uses-items"> <a href="https://www.sublimetext.com/"> <h4 className="item-color">Sublime  </h4> </a> </p>           
                     <p class="uses-items"> <a href="https://www.jetbrains.com/idea/"> <h4 className="item-color">Intellij  </h4> </a> </p>           
                     <p class="uses-items"> <a href="https://www.jetbrains.com/go/"> <h4 className="item-color">Goland  </h4> </a> </p>           
@@ -99,6 +99,7 @@ function Uses() {
 
                     <p class="uses-items"> <a href="https://www.pythonanywhere.com/"> PythonAnywhere  </a> (for python backends) </p>           
                     <p class="uses-items"> <a href="https://www.heroku.com/"> Heroku </a> (all other frontend and backends) </p>           
+                    <p class="uses-items"> <a href="https://vercel.com/"> Vercel </a> (react apps) </p>           
                     
                 
 

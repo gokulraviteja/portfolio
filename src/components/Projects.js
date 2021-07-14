@@ -41,10 +41,10 @@ class Projects extends Component {
 
                     <h3 className="uses-headings"> MyMaps </h3>
 
-                    <p class="uses-items"> <h4 className="item-color"> Being obsessed with maps , somewhere inside my heart it's asking me to build something related to it.  </h4> </p>           
-                    <p class="uses-items"> <h4 className="item-color"> So used my work experience and knowledge that ola provided.  </h4> </p>           
+                    <p class="uses-items"> <h4 className="item-color"> Being obsessed with maps , somewhere inside my heart it's asking me to build something related to maps.  </h4> </p>           
+                    <p class="uses-items"> <h4 className="item-color"> So used my work experience and knowledge that i got from my mentors.  </h4> </p>           
                     <p class="uses-items"> <h4 className="item-color"> <a href="https://devcheats.herokuapp.com/" > Here </a> you can find the route between two geographical positions with a smoothened curve  <a href="https://devcheats.herokuapp.com/" > MyMaps </a> </h4> </p>           
-                    <p class="uses-items"> <h4 className="item-color"> Smoothening the pings is not as simple as coordinate geometry , think about it !   </h4> </p>           
+                    <p class="uses-items"> <h4 className="item-color"> Smoothening pings is not as simple as coordinate geometry , think about it !   </h4> </p>           
 
 
                 </div>
@@ -61,7 +61,6 @@ class Projects extends Component {
                 
                 </div>
 
-                                    
                 
                 <div className="uses-body" >
 
@@ -81,7 +80,7 @@ class Projects extends Component {
                 <div className="uses-body" >
 
 
-                    <h3 className="uses-headings"> Construction in progress 👨‍💻 ... </h3>
+                    <h3 className="uses-headings"> More Constructions are in progress 👨‍💻  </h3>
                     <h3 className="uses-headings"> Check out my <a href="https://github/gokulraviteja/" > Github </a>  for more projects and tutorial code templates ... </h3>
                     <h3 className="uses-headings"> Blogs .. ?  </h3>
                     
