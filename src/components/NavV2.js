@@ -1,6 +1,6 @@
 import "../App.css"
 
-import React , {useEffect} from 'react'
+import React  from 'react'
 import '../styles/navV2.css'
 import '../ReactLogo.css';
 

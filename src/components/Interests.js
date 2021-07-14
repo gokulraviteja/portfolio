@@ -1,16 +1,14 @@
 import "../App.css"
 
-import React , {useEffect} from 'react'
+import React  from 'react'
 import '../styles/navV2.css'
 import '../ReactLogo.css';
 
 import '../styles/portfolio.css'
-import pic1 from '../pics/pic1.jpg';
-import pic2 from '../pics/pic2.png';
+
 import pic3 from '../pics/pic3.jpg';
 
 import 'react-slideshow-image/dist/styles.css'
-import SimpleImageSlider from "react-simple-image-slider";
 
 
 const images = [

@@ -2,7 +2,6 @@
 import React, { Component } from 'react';
 import '../styles/home.css'
 import '../styles/portfolio.css'
-import NavV2 from '../components/NavV2'
 
 class Projects extends Component {
 
