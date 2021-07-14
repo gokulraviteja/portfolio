@@ -72,7 +72,7 @@ function Uses() {
                     <h3 className="uses-headings"> #Work Related ( Btw I'm currently working  at <a href="https://www.olacabs.com/"> OLA </a>  ) </h3>
 
                     <p class="uses-items"> <h4 className="item-color"> I Use Java , Scala , Go ,Python on daily basis  </h4> </p>           
-                    <p class="uses-items"> <h4 className="item-color"> Work on microservices , distributed systems , built using a wide variety of frameworks , which interact with a variety of databases. <a>(Sometimes i execute postgres or mongo commands in cql shell 😅 ) </a> </h4> </p>           
+                    <p class="uses-items"> <h4 className="item-color"> Work on microservices , distributed systems , built using a wide variety of frameworks , which interact with a variety of databases. <span className="special-texts">(Sometimes i execute postgres or mongo commands in cql shell 😅 ) </span> </h4> </p>           
                     <p class="uses-items"> <h4 className="item-color"> Interact quite a lot with locations and map related components which includes postgreSQL and terms like geoHashes , S2Cells , Gps Pings , polylines etc  </h4> </p>                                     
                     <p class="uses-items"> <h4 className="item-color"> Started working on flink and loving it   </h4> </p>           
                     <p class="uses-items"> <h4 className="item-color"> Play with hadoop ecosystem when i get bored  </h4> </p>     
