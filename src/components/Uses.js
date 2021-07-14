@@ -14,13 +14,13 @@ function Uses() {
 
         <div>
             
-            <nav >
+            <uses-nav >
             
-                <h1 className="nav-name" > 🙋‍♂️ &lt; Gokul /&gt;  </h1>
+                {/* <h1 className="nav-name" > 🙋‍♂️ &lt; Gokul /&gt;  </h1> */}
 
                 <h1 className="nav-name" >  Uses  </h1>
 
-            </nav>
+            </uses-nav>
    
             <div className="usesbody">
 

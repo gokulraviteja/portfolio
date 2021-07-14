@@ -12,7 +12,7 @@ class Projects extends Component {
                 <div>
                     <nav >
                     
-                        <h1 className="nav-name" > 🙋‍♂️ &lt; Gokul /&gt;  </h1>
+                        {/* <h1 className="nav-name" > 🙋‍♂️ &lt; Gokul /&gt;  </h1> */}
 
                         <h1 className="nav-name" >  Projects  </h1>
 

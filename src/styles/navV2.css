@@ -5,11 +5,25 @@ nav{
     justify-content: space-around;
     align-items: center;
     min-height: 5vh;
-    background-color: rgb(0, 0, 0);
-    color: white;
-    /* background-image: url("https://media.giphy.com/media/xVn3ZmKrKIOLS/giphy.gif"); */
+    /* background-color: rgb(0, 0, 0); */
+    /* background-color: #0d021850; */
+    /* color: white; */
+    color: red;
+    background-image: url("https://media.giphy.com/media/xVn3ZmKrKIOLS/giphy.gif");
   }
   
+  uses-nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 5vh;
+    /* background-color: rgb(0, 0, 0); */
+    /* background-color: #0d021850; */
+    /* color: white; */
+    color: red;
+    background-image: url("https://media.giphy.com/media/TxVVB6PfWMjE4/giphy.gif");
+  }
+
   .nav-links{
     width: 50%;
     font-weight: 600;
