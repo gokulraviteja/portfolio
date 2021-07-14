@@ -37,29 +37,26 @@ function Uses() {
                             Projects
                         </a>
                 </div>
-                    
-
-                <div className="links-container">
+                
+                    <div className="links-container">
+                        
                         <div>
+
                             <a href='#editors' className="links">
                                 #Editors
                             </a>
 
                             <a href='#tech' className="links">
-                                #TechStack
+                                #Tech
                             </a>
-
                             <a href='#hardware' className="links">
                                 #Others
                             </a>
 
-                            {/* <a href='#editors' className="links">
-                                #Others
-                            </a> */}
-
                         </div>              
                     </div>
-                        
+
+
                 <div className="uses-body" id="editors">
                     <h3 className="uses-headings"> Editors (Depends on mood and language) </h3>                
                     <p class="uses-items"> <a href="https://www.sublimetext.com/"> <h4 className="item-color">Sublime  </h4> </a> </p>           

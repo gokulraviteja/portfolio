@@ -17,7 +17,6 @@ function PortFolioBody() {
                     <a href='/interests' className="btn buttonSelection">
                         Interests
                     </a>
-
                     <a  href='/projects' className="btn buttonSelection">
                         Projects
                     </a>
