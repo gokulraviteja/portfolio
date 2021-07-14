@@ -81,7 +81,7 @@ function PortFolioBody() {
 
                            
                 <div className="name">
-                    <span className="heartIcon">  ♥️  </span>  from   buz_er(🧑) -  Awbathrow(??)
+                    <span className="heartIcon">  ♥️  </span>  from   buz_er
                 </div>
                 
 

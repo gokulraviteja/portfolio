@@ -67,7 +67,7 @@ function Uses() {
                     <p class="uses-items"> <a href="https://www.jetbrains.com/go/"> <h4 className="item-color">Goland  </h4> </a> </p>           
                     <p class="uses-items"> <a href="https://code.visualstudio.com/"> <h4 className="item-color">Vs Code  </h4> </a> </p>           
                     <p class="uses-items"> <a href="https://www.jetbrains.com/pycharm/"> <h4 className="item-color">Pycharm  </h4> </a> </p>           
-                    <p class="uses-items"> <a href="https://atom.io"> <h4 className="item-color">Pycharm  </h4> </a> </p>           
+                    <p class="uses-items"> <a href="https://atom.io"> <h4 className="item-color"> Atom  </h4> </a> </p>           
                     <p class="uses-items"> <a href="https://jupyter.org"> <h4 className="item-color">Jupyter  </h4> </a> </p>           
                     <p class="uses-items">iTerm2 <a href="https://github.com/ohmyzsh/ohmyzsh" > (oh my zsh) </a> </p>    
                 </div>

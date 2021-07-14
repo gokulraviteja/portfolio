@@ -17,7 +17,7 @@ function NavV2() {
 
         <nav >
         
-            <h1 className="nav-name" > 🙋 &lt; Gokul /&gt;  </h1>
+            <h1 className="nav-name" > 🙋‍♂️ &lt; Gokul /&gt;  </h1>
 
             <h1 className="nav-name" >  Portfolio  </h1>
 
