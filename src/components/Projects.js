@@ -43,7 +43,7 @@ class Projects extends Component {
 
                     <p class="uses-items"> <h4 className="item-color"> Being obsessed with maps , somewhere inside my heart it's asking me to build something related to maps.  </h4> </p>           
                     <p class="uses-items"> <h4 className="item-color"> So used my work experience and knowledge that i got from my mentors.  </h4> </p>           
-                    <p class="uses-items"> <h4 className="item-color"> <a href="https://devcheats.herokuapp.com/" > Here </a> you can find the route between two geographical positions with a smoothened curve  <a href="https://devcheats.herokuapp.com/" > MyMaps </a> </h4> </p>           
+                    <p class="uses-items"> <h4 className="item-color"> <a href="https://mymaps.vercel.app/mymaps" > Here </a> you can find the route between two geographical positions with a smoothened curve  <a href="https://mymaps.vercel.app/mymaps" > MyMaps </a> </h4> </p>           
                     <p class="uses-items"> <h4 className="item-color"> Smoothening pings is not as simple as coordinate geometry , think about it !   </h4> </p>           
 
 
