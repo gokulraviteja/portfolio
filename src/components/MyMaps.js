@@ -44,7 +44,7 @@ class MyMaps extends Component {
 
                         <fieldset className="wide">
                             <p className="input-fields">Origin:<br/><input className="input-text" type="text"/></p>
-                            <p className="input-fields">Destination:<br/><input className="input-password" type="password"/></p>
+                            <p className="input-fields">Destination:<br/><input className="input-text" type="text"/></p>
                         </fieldset>
 
                         <p>
