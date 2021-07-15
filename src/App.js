@@ -8,6 +8,7 @@ import Portfolio from './components/Portfolio'
 import Uses from './components/Uses'
 import Interests from './components/Interests'
 import Projects from './components/Projects'
+import MyMaps from './components/MyMaps'
 
 
 
@@ -24,6 +25,7 @@ function App() {
           <Route exact path="/uses" component = { Uses } />
           <Route exact path="/interests" component = { Interests } />
           <Route exact path="/projects" component = { Projects } />
+          <Route exact path="/mymaps" component = { MyMaps } />
           </Switch>
         </div>
       </Router>
