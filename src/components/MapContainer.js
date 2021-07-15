@@ -1,24 +1,19 @@
 import "../App.css"
 import '../ReactLogo.css';
 import '../styles/Maps.css';
-import L from 'leaflet';
-import { Map, TileLayer, Marker, Popup , Polyline } from 'react-leaflet';
+
+import { Map, TileLayer} from 'react-leaflet';
 import React, {Component} from 'react';
 
 class MapContainer extends Component {
 
 
-
-    constructor(props) {
-        super(props);
-      }
-      
     
     render(){
 
         const center = [13.003032987095256,77.63759854312903];
         console.log("Map rendered")
-        const zoom=25;
+        const zoom=20;
         console.log("Any thing here props - " , this.props)
             return(
                 <div>
