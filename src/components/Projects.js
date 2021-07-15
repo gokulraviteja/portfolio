@@ -56,9 +56,8 @@ class Projects extends Component {
 
                     <p class="uses-items"> <h4 className="item-color"> As a beginner , yes we dont really remember every command that a client-tool provides  </h4> </p>           
                     <p class="uses-items"> <h4 className="item-color"> So maintaining list of cheats is always helpful, isn't it ?  </h4> </p>           
-                    <p class="uses-items"> <h4 className="item-color"> Here it is <a href="https://devcheats.herokuapp.com/" > Devcheats </a> </h4> </p>           
-                    
-                
+                    <p class="uses-items"> <h4 className="item-color"> Here it is <a href="https://devcheats.herokuapp.com/" > Devcheats .  </a>  Please use desktop mode (Not a frontend fan by birth) </h4> </p>           
+                                    
                 </div>
 
                 

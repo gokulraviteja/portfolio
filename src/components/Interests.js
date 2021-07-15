@@ -69,7 +69,7 @@ function Uses() {
                 <div className="uses-body" id="tech">
                 <h3 className="uses-headings"> Tech </h3>
 
-                    <h3 className="uses-headings"> #Work  ( Btw I'm currently working  at <a href="https://www.olacabs.com/"> OLA </a>  ) </h3>
+                    <h3 className="uses-headings"> #Work  ( ... I'm currently working  at ... <a href="https://www.olacabs.com/"> OLA </a>  ) </h3>
 
                     <p class="uses-items"> <h4 className="item-color"> I Use Java, Scala, Go, Python on daily basis  </h4> </p>           
                     <p class="uses-items"> <h4 className="item-color"> Work on microservices , distributed systems , built on top of wide variety of frameworks , which interact with a variety of databases. <span className="special-texts">(Because of which sometimes i execute postgres or mongo commands in cql shell 😅 ) </span> </h4> </p>           
