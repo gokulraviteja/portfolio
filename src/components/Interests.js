@@ -106,6 +106,17 @@ function Uses() {
 
                 </div>
 
+
+                <div className="uses-body" id="nontech">
+
+                    <h3 className="uses-headings"> #Coding! </h3>
+
+                    <p class="uses-items"> <h4 className="item-color"> Consistently performed in Hackerearth Monthly contents ( <span className="item-protip"> Global Ranks (Top 100) :  35, 50, 51, 72, 97 ) </span> </h4> </p>                                                         
+                    <p class="uses-items"> <h4 className="item-color"> Codechef Monthly Contests - Achieved Global Rank :  <span className="item-protip"> 132 (Div 1) </span> , Achieved Global Rank : <span className="item-protip">68  (Div 2) </span> </h4> </p>         
+                    
+
+                </div>
+
                 <div className="images-section">
 
                     
